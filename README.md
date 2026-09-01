@@ -103,7 +103,7 @@ Therefore, the analysis identifies sales patterns and potential areas for invest
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](blinkit-dashboard.png)
+![Blinkit Sales Analysis Dashboard]
 
 The project includes the complete Excel workbook containing the raw data, analysis sheets, Pivot Tables, charts and final dashboard.
 
