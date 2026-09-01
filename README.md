@@ -1,3 +1,4 @@
+<img width="1174" height="600" alt="blinkit-dashboard" src="https://github.com/user-attachments/assets/2f3f5e27-33d9-421a-b336-b575df78d185" />
 # Blinkit Sales Analysis Dashboard | Excel
 
 ## 📊 Project Overview
@@ -101,6 +102,8 @@ Therefore, the analysis identifies sales patterns and potential areas for invest
 ---
 
 ## 📷 Dashboard Preview
+
+![Blinkit Sales Analysis Dashboard](blinkit-dashboard.png)
 
 The project includes the complete Excel workbook containing the raw data, analysis sheets, Pivot Tables, charts and final dashboard.
 
